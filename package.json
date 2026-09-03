@@ -1,0 +1,21 @@
+{
+  "name": "saucedemo-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.62.1",
+    "playwright": "^1.62.1",
+    "playwright-core": "^1.62.1"
+  },
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "Nicolas Mann",
+  "license": "ISC",
+  "type": "commonjs"
+}
