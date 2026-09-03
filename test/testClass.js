@@ -8,9 +8,9 @@ export class LoginPage{
 
 
     }
-   async visitUrl(){
-       await this.url;
-        
+    
+    async visitUrl(){
+       await this.url; 
     }
 
     async logIn(user,pass){
